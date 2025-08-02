@@ -5,7 +5,7 @@ A practical **Python script to effortlessly merge multiple PDF documents** into 
 
 ## Project Overview
 
-This command-line utility provides a simple and reliable way to merge multiple PDF files into one. Its robust design handles common errors gracefully, ensuring a smooth and user-friendly experience for everyone.
+This is a powerful yet easy-to-use command-line tool built in Python that lets you merge multiple PDF files into a single document. Instead of relying on complex software, this script provides a lightweight solution for organizing your files. It's designed to be robust and user-friendly, with built-in error handling to prevent crashes from invalid inputs or missing files. Whether you need to combine project reports, consolidate invoices, or compile multiple chapters, this tool simplifies the process directly from your terminal.
 
 ---
 
